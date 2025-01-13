@@ -1,6 +1,6 @@
 # Music-Recommendation-System
 
-This repository contains the implementation of a Music Recommendation System using the Spotify dataset from Kaggle. The system is built with Machine Learning techniques to suggest songs to users based on their listening history and preferences.The objective of this project is to suggest songs to users based on their listening history and preferences.
+This repository contains the implementation of a Music Recommendation System using the Spotify dataset from Kaggle. The system is built with Machine Learning techniques to suggest songs to users based on their listening history and preferences.
 
 **Project Overview**
 
