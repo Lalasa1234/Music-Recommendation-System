@@ -31,3 +31,7 @@ These objectives drive the development and iterative improvement of the music re
 **Acknowledgements**
 
 Kaggle for providing the Spotify dataset. The creators and contributors to the libraries used in this project. 
+
+**Notes**
+
+- A pipeline is a single, streamlined workflow of multiple processing steps such as data pre-processing followed by an estimator or model. Pipeline ensures consistency by following certain steps in a specific sequence. Pipeline also make the code look modular and more interpretable.
